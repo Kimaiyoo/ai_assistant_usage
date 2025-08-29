@@ -58,8 +58,8 @@ Trained and evaluated multiple classifiers:
 
 1. Clone the repository:
 ``` bash
-git clone https://github.com/yourusername/ai-assistant-student-life.git
-cd ai-assistant-student-life
+git clone https://github.com/Kimaiyoo/ai_assistant_usage.git
+cd ai_assistant_usage
 ```
 
 2. Install dependencies:
